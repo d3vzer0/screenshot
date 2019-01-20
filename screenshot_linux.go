@@ -1,7 +1,7 @@
 package screenshot
 
 import (
-	"github.com/kbinani/screenshot/internal/xwindow"
+	"github.com/d3vzer0/screenshot/internal/xwindow"
 	"image"
 )
 
