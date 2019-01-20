@@ -27,7 +27,7 @@ import (
 	"image"
 	"unsafe"
 
-	"github.com/kbinani/screenshot/internal/util"
+	"github.com/d3vzer0/screenshot/internal/util"
 )
 
 func Capture(x, y, width, height int) (*image.RGBA, error) {
